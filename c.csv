@@ -1,0 +1,98 @@
+Country,City,Region,Air Quality,Water Pollution
+USA,New York,North America,78,35
+China,Beijing,Asia,32,67
+India,Mumbai,Asia,28,72
+Russia,Moscow,Europe,65,41
+Japan,Tokyo,Asia,88,22
+Germany,Berlin,Europe,90,20
+United Kingdom,London,Europe,83,28
+France,Paris,Europe,81,30
+Brazil,São Paulo,South America,45,55
+Italy,Rome,Europe,79,34
+Canada,Toronto,North America,91,18
+South Korea,Seoul,Asia,70,40
+Australia,Sydney,Oceania,94,15
+Spain,Madrid,Europe,80,27
+Mexico,Mexico City,North America,52,60
+Indonesia,Jakarta,Asia,36,70
+Saudi Arabia,Riyadh,Asia,40,65
+Turkey,Istanbul,Asia/Europe,62,48
+Switzerland,Zürich,Europe,96,12
+Netherlands,Amsterdam,Europe,88,19
+Sweden,Stockholm,Europe,95,10
+Norway,Oslo,Europe,97,8
+Finland,Helsinki,Europe,96,9
+Denmark,Copenhagen,Europe,94,11
+Poland,Warsaw,Europe,68,44
+Argentina,Buenos Aires,South America,58,53
+Chile,Santiago,South America,61,47
+Peru,Lima,South America,49,58
+South Africa,Cape Town,Africa,73,39
+Egypt,Cairo,Africa,37,71
+Kenya,Nairobi,Africa,66,42
+Morocco,Rabat,Africa,71,37
+Nigeria,Lagos,Africa,33,75
+Ethiopia,Addis Ababa,Africa,55,50
+Thailand,Bangkok,Asia,43,64
+Vietnam,Hanoi,Asia,46,61
+Philippines,Manila,Asia,48,59
+Malaysia,Kuala Lumpur,Asia,68,46
+Singapore,Singapore,Asia,92,14
+New Zealand,Auckland,Oceania,93,13
+Pakistan,Karachi,Asia,31,74
+Iran,Tehran,Asia,38,68
+Iraq,Baghdad,Asia,40,66
+Israel,Tel Aviv,Asia,87,25
+Ireland,Dublin,Europe,90,21
+Belgium,Brussels,Europe,85,29
+Portugal,Lisbon,Europe,88,23
+Greece,Athens,Europe,77,36
+Czech Republic,Prague,Europe,82,31
+Austria,Vienna,Europe,91,17
+Hungary,Budapest,Europe,76,38
+Ukraine,Kyiv,Europe,63,45
+Romania,Bucharest,Europe,67,43
+Bulgaria,Sofia,Europe,69,41
+Croatia,Zagreb,Europe,86,27
+Serbia,Belgrade,Europe,64,46
+Slovakia,Bratislava,Europe,84,30
+Slovenia,Ljubljana,Europe,89,22
+Iceland,Reykjavik,Europe,97,8
+Latvia,Riga,Europe,91,15
+Estonia,Tallinn,Europe,93,13
+Lithuania,Vilnius,Europe,90,17
+Bangladesh,Dhaka,Asia,25,79
+Nepal,Kathmandu,Asia,41,63
+Sri Lanka,Colombo,Asia,72,38
+Myanmar,Yangon,Asia,47,56
+Cambodia,Phnom Penh,Asia,52,52
+Laos,Vientiane,Asia,65,44
+Mongolia,Ulaanbaatar,Asia,30,73
+Kazakhstan,Astana,Asia,57,50
+Uzbekistan,Tashkent,Asia,74,36
+Azerbaijan,Baku,Asia,59,49
+Georgia,Tbilisi,Asia,62,47
+Armenia,Yerevan,Asia,61,46
+Qatar,Doha,Asia,85,28
+UAE,Dubai,Asia,88,24
+Kuwait,Kuwait City,Asia,66,42
+Bahrain,Manama,Asia,83,29
+Oman,Muscat,Asia,80,31
+Jordan,Amman,Asia,78,34
+Lebanon,Beirut,Asia,64,46
+Tunisia,Tunis,Africa,70,40
+Algeria,Algiers,Africa,58,53
+Libya,Tripoli,Africa,55,55
+Ghana,Accra,Africa,67,42
+Uganda,Kampala,Africa,60,47
+Tanzania,Dar es Salaam,Africa,65,45
+Zimbabwe,Harare,Africa,62,49
+Zambia,Lusaka,Africa,63,48
+Sudan,Khartoum,Africa,52,57
+Angola,Luanda,Africa,59,51
+Cameroon,Yaoundé,Africa,61,50
+Madagascar,Antananarivo,Africa,69,39
+Paraguay,Asunción,South America,72,38
+Uruguay,Montevideo,South America,80,29
+Bolivia,La Paz,South America,54,54
+Ecuador,Quito,South America,66,41
