@@ -99,3 +99,84 @@ id,country,bank_name,account_name,account_type,currency,balance,opened_date,stat
 98,Morocco,Bank of Africa,Salma Bakkali,Checking,MAD,102000.00,2025-03-25,Active
 99,Israel,Leumi Bank,Yosef Levi,Savings,ILS,57000.00,2025-04-04,Active
 100,Uzbekistan,Ipoteka Bank,Shahzoda Karimova,Checking,UZS,87000000.00,2025-04-20,Active
+101,USA,Chase Bank,Emma Johnson,Checking,USD,14500.45,2020-05-18,Active
+102,UK,HSBC,George Williams,Savings,GBP,9200.30,2021-06-22,Closed
+103,Canada,TD Bank,Isabella Davis,Checking,CAD,18500.25,2019-08-14,Active
+104,Germany,Commerzbank,Felix Schneider,Savings,EUR,12700.00,2018-04-17,Pending
+105,France,Société Générale,Léa Dupont,Checking,EUR,14200.90,2016-09-09,Active
+106,Japan,SMBC Bank,Daichi Watanabe,Current,JPY,1520000.00,2017-02-15,Active
+107,Australia,Westpac Bank,Sophia Brown,Savings,AUD,9100.50,2015-11-27,Closed
+108,India,HDFC Bank,Ankit Sharma,Checking,INR,420000.00,2016-08-19,Active
+109,China,CCB,Chen Li,Savings,CNY,86500.00,2019-03-21,Active
+110,Brazil,Bradesco,Gabriel Costa,Checking,BRL,35500.75,2020-09-05,Active
+111,Russia,Alfa Bank,Irina Smirnova,Savings,RUB,980000.00,2021-01-14,Pending
+112,South Korea,Shinhan Bank,Park Soo-jin,Current,KRW,16700000,2022-04-09,Active
+113,Italy,Banca Intesa,Luca Romano,Savings,EUR,13200.30,2019-06-03,Active
+114,Spain,Banco Sabadell,Ana Morales,Checking,EUR,12800.20,2020-07-22,Active
+115,Uzbekistan,Asaka Bank,Diyorbek Rahimov,Savings,UZS,58000000,2021-05-11,Active
+116,Kazakhstan,Forte Bank,Arman Orazov,Savings,KZT,2700000,2022-07-19,Closed
+117,UAE,First Abu Dhabi Bank,Khalifa Al Mazrouei,Checking,AED,81000.00,2020-10-17,Active
+118,Turkey,Ziraat Bankasi,Selin Arslan,Savings,TRY,84500.00,2023-01-06,Active
+119,Egypt,Commercial International Bank,Ahmed Fathy,Current,EGP,175000.00,2024-02-20,Active
+120,South Africa,Nedbank,Nomsa Dlamini,Savings,ZAR,115000.00,2024-04-02,Active
+121,Mexico,Santander Mexico,Sergio Ortega,Checking,MXN,78000.00,2023-11-29,Active
+122,Argentina,Banco Macro,Valeria Torres,Savings,ARS,89000.00,2023-10-15,Pending
+123,Sweden,Handelsbanken,Anders Karlsson,Checking,SEK,67000.00,2022-09-30,Closed
+124,Norway,Sparbanken,Kristian Johansen,Savings,NOK,60500.00,2022-08-05,Active
+125,Finland,OP Bank,Laura Virtanen,Current,EUR,12300.00,2021-03-25,Closed
+126,Denmark,Nykredit Bank,Andreas Olsen,Savings,DKK,49000.00,2020-07-06,Active
+127,Switzerland,Raiffeisen Bank,Lukas Steiner,Checking,CHF,15000.00,2022-05-16,Active
+128,Poland,Santander Polska,Piotr Kowalski,Savings,PLN,35000.00,2021-06-09,Active
+129,Hungary,CIB Bank,Andras Toth,Checking,HUF,4100000.00,2019-08-21,Active
+130,Austria,BAWAG,Bernhard Hofer,Savings,EUR,8900.00,2019-02-04,Closed
+131,Portugal,Novo Banco,Ines Carvalho,Checking,EUR,11000.00,2020-04-11,Active
+132,Netherlands,Rabobank,Daan Jansen,Savings,EUR,15900.00,2018-09-13,Closed
+133,Ireland,BOI Bank,Liam O'Brien,Checking,EUR,9400.00,2021-03-10,Active
+134,Belgium,Belfius Bank,Noah Peeters,Savings,EUR,8700.00,2023-01-05,Active
+135,Czech Republic,Komerční banka,Jan Novak,Checking,CZK,82000.00,2022-12-11,Active
+136,Greece,Eurobank,Georgios Karalis,Savings,EUR,11200.00,2023-04-15,Active
+137,Ukraine,Oschadbank,Andriy Bondarenko,Checking,UAH,620000.00,2024-06-02,Closed
+138,Georgia,Bank of Georgia,Lasha Kapanadze,Savings,GEL,15500.00,2024-09-19,Active
+139,Azerbaijan,Pasha Bank,Ilgar Mammadov,Checking,AZN,22500.00,2024-11-03,Active
+140,Saudi Arabia,NCB Bank,Abdulaziz Al-Qahtani,Savings,SAR,94000.00,2024-12-07,Active
+141,Qatar,Masraf Al Rayan,Saif Al-Kuwari,Checking,QAR,86000.00,2023-07-29,Active
+142,Pakistan,MCB Bank,Salman Khan,Savings,PKR,490000.00,2023-03-25,Active
+143,Malaysia,Public Bank,Nur Izzah,Checking,MYR,32000.00,2024-05-19,Active
+144,Singapore,UOB Bank,Tan Wei Ming,Savings,SGD,50500.00,2024-08-11,Closed
+145,Thailand,Krung Thai Bank,Kanya Phong,Checking,THB,2650000.00,2025-01-02,Active
+146,Indonesia,Permata Bank,Siti Nurhaliza,Savings,IDR,81000000.00,2025-03-04,Active
+147,Philippines,UnionBank,Carlo Mendoza,Checking,PHP,97000.00,2025-04-10,Active
+148,Vietnam,Techcombank,Pham Thanh Long,Savings,VND,63000000.00,2025-05-06,Active
+149,Hong Kong,BOC HK,Victor Chan,Checking,HKD,93000.00,2024-10-24,Active
+150,Taiwan,First Commercial Bank,Chou Mei Ling,Savings,TWD,750000.00,2024-11-17,Active
+151,New Zealand,BNZ Bank,Oliver Brown,Checking,NZD,14000.00,2024-09-28,Active
+152,Chile,Scotiabank Chile,Catalina Ruiz,Savings,CLP,13500000.00,2025-02-13,Closed
+153,Peru,Banco Pichincha,Cesar Delgado,Checking,PEN,32500.00,2024-12-21,Active
+154,Colombia,Banco Popular,Sofia Rojas,Savings,COP,162000000.00,2025-03-25,Active
+155,Nigeria,GT Bank,Obi Nwosu,Checking,NGN,2450000.00,2025-04-02,Active
+156,Kenya,Cooperative Bank,Wanjiku Mwangi,Savings,KES,890000.00,2025-05-08,Active
+157,Ethiopia,Dashen Bank,Mulugeta Kebede,Checking,ETB,200000.00,2025-06-01,Closed
+158,Morocco,Attijariwafa Bank,Rania Benali,Savings,MAD,93000.00,2025-06-28,Active
+159,Algeria,Banque de Développement Local,Samir Ait,Checking,DZD,500000.00,2025-07-12,Active
+160,Israel,Mizrahi Tefahot Bank,Noa Levi,Savings,ILS,49000.00,2025-08-03,Closed
+161,Uzbekistan,Turon Bank,Farrukh Bek,Savings,UZS,56000000.00,2023-03-01,Active
+162,Kazakhstan,Jusan Bank,Aruzhan Aman,Savings,KZT,2100000,2023-04-14,Closed
+163,USA,Goldman Sachs,Mark Adams,Checking,USD,51000.45,2020-06-11,Active
+164,UK,Lloyds Bank,Emma Green,Savings,GBP,8100.20,2021-08-09,Active
+165,Japan,Resona Bank,Kento Ito,Current,JPY,1450000,2021-11-15,Active
+166,Australia,Macquarie Bank,Chloe Walker,Savings,AUD,9800.60,2022-01-20,Active
+167,China,Agricultural Bank of China,Zhao Min,Savings,CNY,92500.00,2022-05-03,Active
+168,Turkey,Akbank,Mehmet Yilmaz,Checking,TRY,77000.00,2023-06-18,Active
+169,France,Crédit Agricole,Lucie Bernard,Savings,EUR,11500.00,2023-09-24,Closed
+170,Germany,KfW Bank,Heike Braun,Checking,EUR,9200.00,2023-12-12,Active
+171,Russia,Promsvyazbank,Andrey Ivanov,Savings,RUB,900000.00,2024-02-14,Active
+172,India,Kotak Mahindra Bank,Priya Das,Checking,INR,520000.00,2024-04-06,Active
+173,UAE,Dubai Islamic Bank,Fatima Noor,Savings,AED,68000.00,2024-06-20,Active
+174,Qatar,QIIB,Salem Al-Kuwari,Checking,QAR,84000.00,2024-08-08,Active
+175,Korea,KEB Hana Bank,Lee Ji-hoon,Savings,KRW,16400000,2024-10-10,Active
+176,Uzbekistan,Ipak Yuli Bank,Abbos Karimov,Checking,UZS,61000000.00,2024-11-23,Active
+177,Japan,Shizuoka Bank,Naoki Ueda,Savings,JPY,1250000,2024-12-29,Active
+178,China,China Merchants Bank,Liu Xiang,Checking,CNY,99000.00,2025-02-10,Active
+179,UK,NatWest,Eleanor Gray,Savings,GBP,9900.50,2025-03-18,Closed
+180,USA,Citibank,Jason Miller,Checking,USD,17000.00,2025-04-29,Active
+

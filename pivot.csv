@@ -1,0 +1,101 @@
+id,country,bank_name,account_type,currency,balance,opened_date,status
+1,United States,Chase Bank,Checking,USD,85742.50,2011-03-22,Active
+2,United Kingdom,HSBC,Savings,GBP,65400.20,2015-06-19,Closed
+3,Canada,TD Bank,Current,CAD,458730.00,2014-09-15,Active
+4,Germany,Commerzbank,Checking,EUR,112000.75,2016-11-12,Suspended
+5,France,Société Générale,Savings,EUR,74250.30,2017-08-03,Active
+6,Uzbekistan,Asaka Bank,Checking,UZS,48500000.00,2018-02-19,Active
+7,Japan,Mizuho Bank,Savings,JPY,935000.00,2012-07-09,Closed
+8,Australia,Westpac,Checking,AUD,19350.80,2020-05-22,Active
+9,India,HDFC Bank,Current,INR,865000.00,2019-03-30,Active
+10,China,ICBC,Savings,CNY,125300.50,2021-10-11,Active
+11,United States,Wells Fargo,Savings,USD,103000.90,2018-09-02,Closed
+12,France,Crédit Agricole,Savings,EUR,15200.00,2020-06-25,Active
+13,Uzbekistan,National Bank of Uzbekistan,Current,UZS,64000000.00,2023-01-17,Active
+14,Japan,SMBC,Checking,JPY,1550000.00,2022-03-05,Active
+15,Germany,DZ Bank,Savings,EUR,49000.00,2020-02-13,Suspended
+16,Canada,Royal Bank of Canada,Checking,CAD,78500.00,2019-04-11,Active
+17,India,ICICI Bank,Savings,INR,945000.00,2021-07-23,Closed
+18,China,Bank of China,Checking,CNY,99500.00,2020-11-05,Active
+19,Australia,ANZ,Savings,AUD,17500.30,2023-03-14,Active
+20,France,BNP Paribas,Checking,EUR,89000.00,2024-02-01,Active
+21,Uzbekistan,Ipoteka Bank,Savings,UZS,53000000.00,2024-04-10,Active
+22,United States,Bank of America,Checking,USD,156000.00,2019-09-15,Closed
+23,United Kingdom,Lloyds Bank,Savings,GBP,98200.00,2020-12-19,Active
+24,Germany,Deutsche Bank,Current,EUR,113000.00,2017-06-08,Active
+25,Japan,MUFG,Checking,JPY,870000.00,2021-01-05,Suspended
+26,Canada,Scotiabank,Savings,CAD,56000.50,2022-02-14,Active
+27,France,Société Générale,Checking,EUR,71000.00,2023-03-12,Active
+28,Uzbekistan,Asaka Bank,Current,UZS,61000000.00,2022-08-01,Active
+29,United States,Chase Bank,Checking,USD,45000.00,2010-05-20,Closed
+30,United Kingdom,HSBC,Savings,GBP,72000.75,2012-07-14,Active
+31,Canada,TD Bank,Checking,CAD,91000.00,2014-11-05,Active
+32,Germany,Commerzbank,Savings,EUR,83000.20,2016-01-22,Active
+33,France,BNP Paribas,Current,EUR,56000.50,2017-04-17,Suspended
+34,Uzbekistan,Ipoteka Bank,Checking,UZS,47000000.00,2018-09-12,Active
+35,Japan,SMBC,Savings,JPY,1250000.00,2019-02-03,Closed
+36,Australia,Westpac,Current,AUD,48500.00,2020-06-28,Active
+37,India,HDFC Bank,Checking,INR,910000.00,2021-08-19,Active
+38,China,ICBC,Savings,CNY,134500.00,2021-11-02,Active
+39,United States,Wells Fargo,Checking,USD,97000.00,2015-05-05,Suspended
+40,France,Crédit Agricole,Current,EUR,67000.00,2016-08-13,Active
+41,Uzbekistan,National Bank of Uzbekistan,Savings,UZS,52000000.00,2022-12-10,Active
+42,Japan,Mizuho Bank,Checking,JPY,1420000.00,2023-03-18,Active
+43,Germany,DZ Bank,Current,EUR,59000.00,2020-07-22,Suspended
+44,Canada,Royal Bank of Canada,Savings,CAD,81000.00,2019-09-09,Active
+45,India,ICICI Bank,Checking,INR,955000.00,2021-05-25,Closed
+46,China,Bank of China,Current,CNY,101500.00,2020-02-14,Active
+47,Australia,ANZ,Checking,AUD,19500.00,2023-01-16,Active
+48,France,Société Générale,Savings,EUR,72000.00,2024-03-07,Active
+49,United States,Bank of America,Current,USD,123000.00,2019-06-11,Closed
+50,United Kingdom,Lloyds Bank,Checking,GBP,88000.50,2020-10-22,Active
+51,Germany,Deutsche Bank,Savings,EUR,104000.00,2017-09-03,Active
+52,Japan,MUFG,Current,JPY,890000.00,2021-04-12,Suspended
+53,Canada,Scotiabank,Checking,CAD,60000.00,2022-01-21,Active
+54,France,BNP Paribas,Savings,EUR,71000.50,2023-05-16,Active
+55,Uzbekistan,Asaka Bank,Current,UZS,59500000.00,2022-07-29,Active
+56,United States,Chase Bank,Checking,USD,47000.00,2010-12-02,Closed
+57,United Kingdom,HSBC,Savings,GBP,73000.75,2012-03-11,Active
+58,Canada,TD Bank,Checking,CAD,92000.00,2014-08-19,Active
+59,Germany,Commerzbank,Savings,EUR,85000.20,2016-02-27,Active
+60,France,BNP Paribas,Current,EUR,57000.50,2017-05-14,Suspended
+61,Uzbekistan,Ipoteka Bank,Checking,UZS,48000000.00,2018-10-05,Active
+62,Japan,SMBC,Savings,JPY,1280000.00,2019-03-17,Closed
+63,Australia,Westpac,Current,AUD,49000.00,2020-07-22,Active
+64,India,HDFC Bank,Checking,INR,920000.00,2021-08-30,Active
+65,China,ICBC,Savings,CNY,135500.00,2021-12-05,Active
+66,United States,Wells Fargo,Checking,USD,98000.00,2015-07-12,Suspended
+67,France,Crédit Agricole,Current,EUR,68000.00,2016-09-27,Active
+68,Uzbekistan,National Bank of Uzbekistan,Savings,UZS,52500000.00,2022-11-20,Active
+69,Japan,Mizuho Bank,Checking,JPY,1430000.00,2023-04-11,Active
+70,Germany,DZ Bank,Current,EUR,60000.00,2020-08-18,Suspended
+71,Canada,Royal Bank of Canada,Savings,CAD,82000.00,2019-10-21,Active
+72,India,ICICI Bank,Checking,INR,960000.00,2021-06-04,Closed
+73,China,Bank of China,Current,CNY,102500.00,2020-03-11,Active
+74,Australia,ANZ,Checking,AUD,19650.00,2023-02-15,Active
+75,France,Société Générale,Savings,EUR,73000.00,2024-04-03,Active
+76,United States,Bank of America,Current,USD,124000.00,2019-07-18,Closed
+77,United Kingdom,Lloyds Bank,Checking,GBP,89000.50,2020-11-28,Active
+78,Germany,Deutsche Bank,Savings,EUR,105000.00,2017-10-09,Active
+79,Japan,MUFG,Current,JPY,900000.00,2021-05-17,Suspended
+80,Canada,Scotiabank,Checking,CAD,61000.00,2022-02-26,Active
+81,France,BNP Paribas,Savings,EUR,72000.50,2023-06-19,Active
+82,Uzbekistan,Asaka Bank,Current,UZS,60000000.00,2022-08-30,Active
+83,United States,Chase Bank,Checking,USD,48000.00,2011-01-15,Closed
+84,United Kingdom,HSBC,Savings,GBP,74000.75,2012-04-18,Active
+85,Canada,TD Bank,Checking,CAD,93000.00,2014-09-23,Active
+86,Germany,Commerzbank,Savings,EUR,86000.20,2016-03-10,Active
+87,France,BNP Paribas,Current,EUR,58000.50,2017-06-28,Suspended
+88,Uzbekistan,Ipoteka Bank,Checking,UZS,49000000.00,2018-11-12,Active
+89,Japan,SMBC,Savings,JPY,1300000.00,2019-04-25,Closed
+90,Australia,Westpac,Current,AUD,49500.00,2020-08-30,Active
+91,India,HDFC Bank,Checking,INR,930000.00,2021-09-14,Active
+92,China,ICBC,Savings,CNY,136500.00,2021-12-20,Active
+93,United States,Wells Fargo,Checking,USD,99000.00,2015-08-25,Suspended
+94,France,Crédit Agricole,Current,EUR,69000.00,2016-10-31,Active
+95,Uzbekistan,National Bank of Uzbekistan,Savings,UZS,53000000.00,2022-12-15,Active
+96,Japan,Mizuho Bank,Checking,JPY,1440000.00,2023-05-20,Active
+97,Germany,DZ Bank,Current,EUR,61000.00,2020-09-21,Suspended
+98,Canada,Royal Bank of Canada,Savings,CAD,83000.00,2019-11-29,Active
+99,India,ICICI Bank,Checking,INR,970000.00,2021-07-08,Closed
+100,China,Bank of China,Current,CNY,103500.00,2020-04-15,Active
