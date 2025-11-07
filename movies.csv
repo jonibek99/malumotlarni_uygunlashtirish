@@ -1,0 +1,21 @@
+id,title,year,genre,director,stars
+1,The Shawshank Redemption,1994,Drama,Frank Darabont,Tim Robbins|Morgan Freeman
+2,The Godfather,1972,Crime,Francis Ford Coppola,Marlon Brando|Al Pacino
+3,The Dark Knight,2008,Action,Christopher Nolan,Christian Bale|Heath Ledger
+4,12 Angry Men,1957,Drama,Sidney Lumet,Henry Fonda|Lee J. Cobb
+5,Schindler's List,1993,Biography,Steven Spielberg,Liam Neeson|Ralph Fiennes
+6,The Lord of the Rings: The Return of the King,2003,Adventure,Peter Jackson,Elijah Wood|Viggo Mortensen
+7,Pulp Fiction,1994,Crime,Quentin Tarantino,John Travolta|Samuel L. Jackson
+8,Fight Club,1999,Drama,David Fincher,Brad Pitt|Edward Norton
+9,Forrest Gump,1994,Romance,Robert Zemeckis,Tom Hanks|Robin Wright
+10,Inception,2010,Sci-Fi,Christopher Nolan,Leonardo DiCaprio|Joseph Gordon-Levitt
+11,The Matrix,1999,Action,Lana Wachowski|Lilly Wachowski,Keanu Reeves|Laurence Fishburne
+12,Goodfellas,1990,Crime,Martin Scorsese,Robert De Niro|Ray Liotta
+13,Se7en,1995,Crime,David Fincher,Brad Pitt|Morgan Freeman
+14,Interstellar,2014,Sci-Fi,Christopher Nolan,Matthew McConaughey|Anne Hathaway
+15,Parasite,2019,Thriller,Bong Joon Ho,Song Kang-ho|Lee Sun-kyun
+16,Gladiator,2000,Action,Ridley Scott,Russell Crowe|Joaquin Phoenix
+17,Whiplash,2014,Drama,Damien Chazelle,Miles Teller|J.K. Simmons
+18,The Prestige,2006,Mystery,Christopher Nolan,Hugh Jackman|Christian Bale
+19,Joker,2019,Crime,Todd Phillips,Joaquin Phoenix|Robert De Niro
+20,Titanic,1997,Romance,James Cameron,Leonardo DiCaprio|Kate Winslet
